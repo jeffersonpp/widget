@@ -1,8 +1,13 @@
 .App-ratings{
  overflow-y:hidden;
  height:250px;
- cursor:pointer;
+ cursor:grab;
 }
+
+.App-ratings:active{
+	cursor:grabbing;
+}
+
 
 .App-header {
   background-color: #222;
