@@ -1,0 +1,53 @@
+.panel{
+
+}
+
+.panel .panel-body{
+	text-align:justify;
+}
+
+.panel-body{
+	color:#191919;
+    font-size: 12px;
+	margin-bottom:10px;
+}
+
+.panel-group{
+	margin-top:35px;
+}
+
+.panel-title a{
+	text-decoration:none;
+	color: #191919;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.panel-title a:hover{
+	color:#5555DD;
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.tp-review{
+	margin-bottom:25px;
+	border-bottom:solid 1px #ADC;
+}
+
+.tp-widget-stars{
+	display:flex;
+}
+
+.tp-widget-stars-wrapper{
+	display:inline;
+}
+
+.tp-widget-review_name{
+	display:inline;
+	font-weight:bolder;
+	font-size:1rem;
+	color: #212529;
+    text-align: center;
+	margin-left:30px;
+}
+	

@@ -1,0 +1,41 @@
+
+
+.tp-stars--{
+	position:relative;
+	width:120px;
+}
+._st{
+	fill:#eef;	
+}
+.st0{
+	fill:#fff;
+	}
+.st1{
+	fill:#ff3722;
+	}	
+.st2{
+	fill:#fb963a;
+	}	
+.st3{
+	fill:#f9cd16;
+	}	
+.st4{
+	fill:#73cf11;
+	}	
+.st5{
+	fill:#00b67a;
+	}	
+
+.tp-stars_box{
+	position: relative;
+	height: 0;
+	width: 100%;
+	padding: 0;
+	padding-bottom: 18%;
+	}
+.tp-star_viewbox{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	left: 0;
+	top: 0}
