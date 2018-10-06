@@ -1,5 +1,5 @@
 # sample-widget
-A sample react-bootstrap with scroll drag
+A sample react-bootstrap made to show to the TrustPilot enterprise. It is just a widget with scroll drag
 
 I made this project with NodeJS and ReactJS (create-react-app).
 
@@ -24,7 +24,7 @@ yarn start (to start the server)
 I have more than ten years of experience coding websites and applications using web technologies. 
 I have a site with old "learning code", with more than 10 years each. If you want to play and see something about my code formation, please visit this url: 
 http://www.jeffersonlopes.com/games/entangle
-http://www.jeffersonlopes.com/games/jigsaw
+http://www.jeffersonlopes.com/games/react
 
 See my short kinetic Typography resume at 
 http://www.jeffersonlopes.com
