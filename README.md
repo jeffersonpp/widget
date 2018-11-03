@@ -1,5 +1,5 @@
 # sample-widget
-A sample react-bootstrap made to show to the TrustPilot enterprise. It is just a widget with scroll drag
+A sample react-bootstrap. It is just a widget with scroll drag
 
 I made this project with NodeJS and ReactJS (create-react-app).
 
