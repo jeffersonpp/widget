@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Ratings from './Ratings.js';
-import logo from './logo-black.svg';
+import logo from './logo-black.jpg';
 import dragscroll from 'dragscroll';
 
 class App extends Component {
